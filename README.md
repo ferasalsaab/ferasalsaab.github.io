@@ -1,2 +1,5 @@
-# ferasalsaab.github.io
-A Simple Personal WebPage
+# My Landing Page
+
+## License
+
+MIT © Feras AlSaab
